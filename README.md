@@ -7,6 +7,9 @@
 
 ### Languages and Tools
 
+![Alt text](./c.svg)
+<img src="./c.svg">
+
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangrem&show_icons=true&theme=radical)
 
