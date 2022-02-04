@@ -1,4 +1,4 @@
-### Hi there Im Alexey Kiselev - aka Sangrem 👋
+### Hi there Im Alexey Kiselev - aka Sangrem <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on some games, on Unity.
 - 🌱 I’m currently learning C#, Unity.
