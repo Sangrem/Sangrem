@@ -13,5 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangrem&show_icons=true&theme=radical)
 
 <a href="https://github.com/Sangrem">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sangrem&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sangrem&langs_count=8&layout=compact&theme=radical" />
 </a>
